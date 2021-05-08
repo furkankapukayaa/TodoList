@@ -1,5 +1,5 @@
 # Todo List
-C# Windows Form ile yapılmış bir yapılcaklar listesi programıdır.
+C# Windows Form ile yapılmış bir yapılacaklar listesi uygulamasıdır. Ayrıyeten sayaç ve takvim gibi özellikler eklenmiştir.
 <br>
 <a href="https://github.com/furkankapukayaa/Todo-List/tree/main/ToDo%20Setup">Uygulama Setup</a>
 <br>
