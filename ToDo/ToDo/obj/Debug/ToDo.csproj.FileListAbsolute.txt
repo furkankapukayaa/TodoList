@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\ToDo\ToDo\bin\Debug\ToDo.exe.config
+C:\Users\user\source\repos\ToDo\ToDo\bin\Debug\ToDo.exe
+C:\Users\user\source\repos\ToDo\ToDo\bin\Debug\ToDo.pdb
+C:\Users\user\source\repos\ToDo\ToDo\obj\Debug\ToDo.csprojAssemblyReference.cache
+C:\Users\user\source\repos\ToDo\ToDo\obj\Debug\ToDo.Properties.Resources.resources
+C:\Users\user\source\repos\ToDo\ToDo\obj\Debug\ToDo.ToDo.resources
+C:\Users\user\source\repos\ToDo\ToDo\obj\Debug\ToDo.csproj.GenerateResource.cache
+C:\Users\user\source\repos\ToDo\ToDo\obj\Debug\ToDo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\ToDo\ToDo\obj\Debug\ToDo.exe
+C:\Users\user\source\repos\ToDo\ToDo\obj\Debug\ToDo.pdb
+C:\Users\user\source\repos\ToDo\ToDo\bin\Debug\ToDo.exe.manifest
+C:\Users\user\source\repos\ToDo\ToDo\bin\Debug\ToDo.application
+C:\Users\user\source\repos\ToDo\ToDo\obj\Debug\ToDo.exe.manifest
+C:\Users\user\source\repos\ToDo\ToDo\obj\Debug\ToDo.application
+C:\Users\user\source\repos\ToDo\ToDo\obj\Debug\ToDo.allForm.resources
