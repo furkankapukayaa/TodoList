@@ -13,3 +13,11 @@ C:\Users\user\source\repos\ToDo\ToDo\bin\Debug\ToDo.application
 C:\Users\user\source\repos\ToDo\ToDo\obj\Debug\ToDo.exe.manifest
 C:\Users\user\source\repos\ToDo\ToDo\obj\Debug\ToDo.application
 C:\Users\user\source\repos\ToDo\ToDo\obj\Debug\ToDo.allForm.resources
+C:\Users\Furkan\Desktop\Desktop\furkandev\Github Clone\TodoList\ToDo\ToDo\obj\Debug\ToDo.csproj.AssemblyReference.cache
+C:\Users\Furkan\Desktop\Desktop\furkandev\Github Clone\TodoList\ToDo\ToDo\obj\Debug\ToDo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Furkan\Desktop\Desktop\furkandev\Github Clone\TodoList\ToDo\ToDo\obj\Debug\ToDo.allForm.resources
+C:\Users\Furkan\Desktop\Desktop\furkandev\Github Clone\TodoList\ToDo\ToDo\obj\Debug\ToDo.Properties.Resources.resources
+C:\Users\Furkan\Desktop\Desktop\furkandev\Github Clone\TodoList\ToDo\ToDo\obj\Debug\ToDo.ToDo.resources
+C:\Users\Furkan\Desktop\Desktop\furkandev\Github Clone\TodoList\ToDo\ToDo\obj\Debug\ToDo.csproj.GenerateResource.cache
+C:\Users\Furkan\Desktop\Desktop\furkandev\Github Clone\TodoList\ToDo\ToDo\obj\Debug\ToDo.exe
+C:\Users\Furkan\Desktop\Desktop\furkandev\Github Clone\TodoList\ToDo\ToDo\obj\Debug\ToDo.pdb

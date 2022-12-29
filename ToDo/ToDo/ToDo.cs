@@ -1,12 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
-using System.Linq;
 using System.Runtime.InteropServices;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace ToDo
@@ -68,7 +62,6 @@ namespace ToDo
         {
             MessageBox.Show("Uygulamamızda veri tabanı bulunmadığı için programı kapatıp açtığınızda her şey sıfırlanmaktadır. Bu sebeble işiniz bitince günün raporunu almayı unutmayın!", "Bilgilendirme", MessageBoxButtons.OK, MessageBoxIcon.None);
         }
-
 
         private void allFormList_Click(object sender, EventArgs e)
         {

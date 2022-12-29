@@ -1,12 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
 using System.Drawing;
 using System.IO;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace ToDo
@@ -61,7 +55,6 @@ namespace ToDo
 
         private void timer1_Tick(object sender, EventArgs e)
         {
-
             say.Text = ((int.Parse(say.Text) - 1).ToString());
             if (int.Parse(say.Text) < 10)
             {
@@ -238,9 +231,7 @@ namespace ToDo
         private void raporAl_Click(object sender, EventArgs e)
         {
             string yol = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
-            //string dosyadi = @"C:/Users/user/Desktop/Yeni klasör/a.txt";
             string dosyadi = yol + "/ToDo Rapor.txt";
-            FileInfo fi = new FileInfo(dosyadi);
             StreamWriter sw = new StreamWriter(dosyadi);
             sw.WriteLine("Takvim Planı \n");
             for (int i = 0; i < takvimlist.Items.Count; i++)
